@@ -1,4 +1,4 @@
-# kuick-live-shopping-app
+# Kuick: LIVE Shopping APP
 
 Increase your Sales by LIVE Streaming & Selling inside Kuick
 
