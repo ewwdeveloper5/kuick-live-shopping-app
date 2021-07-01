@@ -6,7 +6,7 @@ Kuick is a LIVE Selling e-Commerce Platform, an interactive experience, LIVE wit
 
 LIVE Shopping is not just the future, but the present! Kuick is one of the LIVE Shopping APPs available.
 
-# With the Kuick LIVE Shopping APP, your customers can do the following:
+# Your customers can do the following:
 
 * View LIVE Streams from you
 * Discover NEW products that you offer
@@ -28,6 +28,6 @@ Buying LIVE offers authenticity that Buyers crave. There’s no video editing or
 - Do Unlimited LIVE Shopping Events
 - Add as many products inside Kuick to Live Stream and Sell
 
-# additionalInformation
+# Additional Information
 
 Free to Install. 15% Sales Commission paid to Kuick for each Sale generated (Already includes Payment Processing Fee). Any question, please email us at support@kuick.live
